@@ -13,7 +13,8 @@
   Most of the contents in this repository are jupyter notebook files. 
     The easiest way to view the notebooks is through [jupyter nbviewer](https://nbviewer.jupyter.org).
   
-  Likewise, if you have Jupyter notebook installed on your pc and would like to keep them locally, do the following :
+  Likewise, if you have Jupyter notebook installed on your pc and would like to keep them locally, do the following:
+  
    **Download [Subversion for windows](https://sourceforge.net/projects/win32svn/)** or checkout this [site](https://wandisco.com/svn) 
      to download your preferred subversion client/servers based on your OS.
   
